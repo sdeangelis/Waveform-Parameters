@@ -1,4 +1,4 @@
-Waveform-Parameters
+Waveform Parameters
 ===================
 
-A collection of simple Matlab functions to compute waveform metrics. Requires the GISMO Matlab package. 
+Matlab functions to compute seismic waveform metrics. 
